@@ -3,5 +3,7 @@ Van-Dinh Nguyen, Hieu V. Nguyen, Octavia A. Dobre, and Oh-Soon Shin, "A New Desi
 
 ### Dependency
 YALMIP
+
 SDPT3/ SeDuMi/ MOSEK
+
 MATLAB
