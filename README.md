@@ -1,3 +1,5 @@
+# Secure-Full-Duplex-Multiuser-Systems
+
 The MATLAB CODE is used for repoducing the results of the following paper: 
 
 Van-Dinh Nguyen, Hieu V. Nguyen, Octavia A. Dobre, and Oh-Soon Shin, 
